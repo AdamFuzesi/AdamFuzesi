@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamFuzesi
 - 👀 I’m interested Software engineering and Cloud computing
-- 🌱 I’m currently learning Computer Sciecne with a minor in Mathematics
+- 🌱 I’m a student at Dalhousie University majoring in Computer Science with a minor in Mathematics
 - 📫 How to reach me adamfuzeri@gmail.com  |  (506) 759-2864  | adamfuzesi@dal.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Swift was the first language I learned after gaining interest in app development
